@@ -3,8 +3,6 @@
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 1.x](https://img.shields.io/badge/TensorFlow-1.x-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/badge/downloads-1k+-brightgreen)](https://github.com/saadabdurrazzaq/neural-factorization-machine)
-[![Last Commit](https://img.shields.io/badge/last%20commit-Jan%202024-blue)](https://github.com/saadabdurrazzaq/neural-factorization-machine)
 
 A comprehensive TensorFlow implementation of Neural Factorization Machines for sparse predictive analytics, based on the seminal paper "Neural Factorization Machines for Sparse Predictive Analytics" by He & Chua (2017).
 
