@@ -37,12 +37,12 @@ NFM enhances the FM framework by introducing a deep neural network component tha
 
 | Feature | Description | Benefit |
 |---------|-------------|----------|
-| ** Higher-Order Interactions** | Models feature interactions beyond second-order using deep neural networks | Captures complex, non-linear patterns in data |
-| ** Bi-Interaction Pooling** | Efficient pairwise interaction computation inherited from FM | Maintains O(kn) time complexity for sparse data |
-| ** Deep Architecture** | Configurable multi-layer perceptron with customizable hidden layers | Adaptable to various problem complexities |
-| ** Advanced Regularization** | Combined dropout and batch normalization | Prevents overfitting and ensures training stability |
-| ** Multi-task Ready** | Native support for multi-class classification and regression | Versatile across different problem types |
-| ** GPU Acceleration** | Optional GPU support for large-scale datasets | Scalable to enterprise-level applications |
+| **Higher-Order Interactions** | Models feature interactions beyond second-order using deep neural networks | Captures complex, non-linear patterns in data |
+| **Bi-Interaction Pooling** | Efficient pairwise interaction computation inherited from FM | Maintains O(kn) time complexity for sparse data |
+| **Deep Architecture** | Configurable multi-layer perceptron with customizable hidden layers | Adaptable to various problem complexities |
+| **Advanced Regularization** | Combined dropout and batch normalization | Prevents overfitting and ensures training stability |
+| **Multi-task Ready** | Native support for multi-class classification and regression | Versatile across different problem types |
+| **GPU Acceleration** | Optional GPU support for large-scale datasets | Scalable to enterprise-level applications |
 
 ## 🏗️ Architecture
 
